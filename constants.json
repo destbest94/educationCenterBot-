@@ -1,0 +1,162 @@
+{
+    "START" : "🇺🇿 Tilni tanlang\n🇷🇺 Выберите язык\n🇬🇧 Choose language",
+    "UZ" : "uz",
+    "EN" : "en",
+    "RU" : "ru",
+    "A" : "a",
+    "B" : "b",
+    "C" : "c",
+    "D" : "d",
+    "X" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "TRUE_ANSWERS" : "cdabdbdabbadccdadcacbaccccdbdc",
+    "BEGINER" : "Beginner",
+    "ELEMENTARY" : "Elementary",
+    "PRE" : "Pre-intermediate",
+    "INTER" : "Intermediate",
+    "UPPER" : "Upper Intermediate",
+    "ADVANCED" : "Advanced",
+    "ENG" : {
+        "WELCOME" : "Welcome!",
+        "LANGUAGE" : "✅ Language selected",
+        "LABEL" : "Select one of the following chapters 👇",
+        "BACK_BTN" : "⏪ Back",
+        "YES" : "✅ Yes",
+        "NO" : "❌ No",
+        "AUTH_MENU": {
+            "LABEL" : "You need to send your phone number to verify your identity. Click below 👇",
+            "BTN" : "👤 Сonfirm",
+            "CONFIRMED": "☑ Confirmed"
+        },
+        "MAIN_MENU" : {
+            "TEST_BTN" : "✍ Take the test",
+            "RESULTS_BTN" : "📖 Results",
+            "ABOUT_BTN" : "ℹ About",
+            "MESSAGE_BTN" : "📫 Leave a message",
+            "SETTINGS_BTN" : "⚙ Settings"
+        },
+        "SETTINGS_MENU" : {
+            "LANGUAGE_BTN" : "🌏 Change language",
+            "AUTH_BTN" : "👤 Confirm your contact"
+        },
+        "TEST_MENU" : {
+            "LABEL" : "Click to complete the test 👇",
+            "END_BTN" : "⏱ Stop",
+            "LABEL_END" : "There are unresolved tests. You want to complete the test⁉",
+            "LABEL_ENDED" : "✅ Test completed! Results have been saved in the database",
+            "LABEL_NOTENDED" : "You can continue the test"
+        },
+        "RESULT_MENU" : {
+            "BEGIN" : "🕒 Test start time: ",
+            "END" : "🕒 Test end time: ",
+            "RIGHT" : "😍 Number of correct answers: ",
+            "WRONG" : "😕 Number of wrong answers: ",
+            "UNSOLVED" : "👀 Number of unsolved answers: ",
+            "LEVEL" : "🏆 Total score  Level: ",
+            "NO_RESULT" : "🤷‍♂️ You haven't taken the test yet"
+        },
+        "ABOUT_MENU" : {
+            "ABOUT" : "Okay, let’s start!\nKingston LC is the very first Learning Centre, which focuses solely on English teaching and preparing for the international tests like IELTS, TOEFL and CEFR.\nMore than 300 students have chosen us owing to our highly qualified teaching staff, which possess IELTS certificates of 7.0 and 8.0. Apart from this, we are the first and only centre which has a tight partnership with the British Council.\nOur courses include such programmes like General English from Beginner Level to Adavanced and preparation for IELTS and CEFR. Also, we offer a short-term couse for those who want to travel to foreign countries and need to master basic English in a short period of time.\nWe differ from other centres in the region because we focus on the practical aspect of the language as we assume it is more helpful to master the language. Our strategy helps our students to speak, write read and listen in English.\nOur mission is that we want to assist the dwellers of Syrdarya region, particularly the youth to achieve their cherished dreams and goals.\nWant to know more about us? Call us to +998972755665 or visit our instagram profile @kingston.lc" 
+        },
+        "MESSAGE_MENU" : {
+            "LABEL" : "📝 You can leave a note if you have any questions, suggestions or complaints. We will reply to you soon.",
+            "LABEL_END" : "Press the button below to finish sending the message 👇",
+            "BTN" : "📫 Stop"
+        }
+    },
+    "UZB" : {
+        "WELCOME" : "Hush kelibsiz!",
+        "LANGUAGE" : "✅ Til tanlandi",
+        "LABEL" : "Quyidagi bo'limlardan birini tanlang 👇",
+        "BACK_BTN" : "⏪ Orqaga",
+        "YES" : "✅ Ha",
+        "NO" : "❌ Yo`q",
+        "AUTH_MENU": {
+            "LABEL" : "Shaxsingizni tasdiqlash uchun telefon raqamingizni jo'natishingiz kerak bo'ladi. Iltimos quyidagi tugmani bosing 👇",
+            "BTN" : "👤 Tasdiqlash",
+            "CONFIRMED" : "☑ Tasdiqlandi"
+        },
+        "MAIN_MENU" : {
+            "TEST_BTN" : "✍ Test topshirish",
+            "RESULTS_BTN" : "📖 Natijalar",
+            "ABOUT_BTN" : "ℹ Biz haqimizda",
+            "MESSAGE_BTN" : "📫 Xabar qoldirish",
+            "SETTINGS_BTN" : "⚙ Sozlamalar"
+        },
+        "SETTINGS_MENU" : {
+            "LANGUAGE_BTN" : "🌏 Tilni o'zgartirish",
+            "AUTH_BTN" : "👤 Shaxsni tasdiqlash"
+        },
+        "TEST_MENU" : {
+            "LABEL" : "Testni yakunlash uchun quyidagi tugmani bosing 👇",
+            "END_BTN" : "⏱ Tugatish",
+            "LABEL_END" : "Javob belgilanmagan testlar bor! Testni yakunlaysizmi⁉",
+            "LABEL_ENDED" : "✅ Test yakunlandi! Natijalar ma'lumotlar bazasiga saqlandi",
+            "LABEL_NOTENDED" : "Testni davom ettirishingiz mumkin"
+        },
+        "RESULT_MENU" : {
+            "BEGIN" : "🕑 Test boshlangan vaqt: ",
+            "END" : "🕒 Test tugagan vaqt: ",
+            "RIGHT" : "😍 To'g'ri javoblar soni: ",
+            "WRONG" : "😕 Noto'g'ri javoblar soni: ",
+            "UNSOLVED" : "👀 Javob berilmagan savollar soni: ",
+            "LEVEL" : "🏆 Daraja: ",
+            "NO_RESULT" : "🤷‍♂️ Siz hali test ishlamagansiz"
+        },
+        "ABOUT_MENU" : {
+            "ABOUT" : "Qani boshladikmi?\nKingston LC bu Sirdaryo viloyatidagi Ingliz tilini o’rgatish va IELTS, CEFR halqaro testlarga tayyorlashga yo`naltirilgan ilk o’quv markazdir.\n300 kishidan ziyod o’quvchilar aynan bizning markazimizni tanlashiga sabab, bu yuqori kvalifikatsiyali, IELTS 7.0 va 8.0 ga ega bo’lgan o’qituvchilardir. Bu hali hammasi emas. Biz Sirdaryo viloyatidagi Britaniya Kengashi bilan qalin hamkorlikda ishlaydigan yagona markazmiz.\nBizning kurslar General English (Umumiy Ingliz tili) Boshlang’ich Beginner darajasidan to Baland Advanced darajasigacha olib chiqishni va IELTS, CEFR testlariga tayyorlashni o’z ichiga oladi. Bundan tashqari, yaqin orada chet elga ketmoqchi bo’gan odamlar uchun qisqa muddatli kurslar ham mavjud.\nBizning boshqa markazlardan farqimiz shundaki, biz tilning amaliy jihatiga ko’proq urg’u beramiz. Bizning strategiyamiz o’quvchilarga ingliz tilida so’zlashish, yozish, o’qish va eshitishga yordam beradi. Bundan tashqari, biz, o’quvchilarimiz uchun hilma-hil tadbirlarni mutloq bepul uyushtiramiz.\nBizning vazifaimiz – bu, viloyatimiz aholisiga, ayniqsa yoshlarimizga o’z maqasadlariga erishishiga ko’mak berishdir.\nBizning markaz haqida va kurslar haqida ba’tafsil ma’lumot olmoqchimisan? Unda +998972755665 raqamiga qo’ng’iroq qil yoki  @Kingston.lc instagram blogimizga a’zo bo’l!" 
+        },
+        "MESSAGE_MENU" : {
+            "LABEL" : "📝 Savollar, takliflar va shikoyatlar bo'lsa yozib qoldirishingiz mumkin. Sizga tez orada javob qaytaramiz.",
+            "LABEL_END" : "Xabar jo'natishni yakunlash uchun quyidagi tugmani bosing 👇",
+            "BTN" : "📫 Tugatish"
+        }
+    },
+    "RUS" : {
+        "WELCOME" : "Добро пожаловать!",
+        "LANGUAGE" : "✅ Язык выбран",
+        "LABEL" : "Выберите одну из следующих разделов 👇",
+        "BACK_BTN" : "⏪ Назад",
+        "YES" : "✅ Да",
+        "NO" : "❌ Нет",
+        "AUTH_MENU": {
+            "LABEL" : "Вам необходимо отправить свой номер телефона, чтобы подтвердить свою личность. Нажмите кнопку ниже 👇",
+            "BTN" : "👤 Подтвердить",
+            "CONFIRMED" : "☑ Подтверждено"
+        },
+        "MAIN_MENU" : {
+            "TEST_BTN" : "✍ Тест",
+            "RESULTS_BTN" : "📖 Результаты",
+            "ABOUT_BTN" : "ℹ О нас",
+            "MESSAGE_BTN" : "📫 Оставить сообщение",
+            "SETTINGS_BTN" : "⚙ Настройки"
+        },
+        "SETTINGS_MENU" : {
+            "LANGUAGE_BTN" : "🌏 Изменить язык",
+            "AUTH_BTN" : "👤 Подтвердите свой контакт"
+        },
+        "TEST_MENU" : {
+            "LABEL" : "Нажмите, чтобы завершить тест 👇",
+            "END_BTN" : "⏱ Завершить",
+            "LABEL_END" : "Имеются нерешенные тесты. Вы хотите завершить тест⁉",
+            "LABEL_ENDED" : "✅ Тест завершен! Результаты были сохранены в базе данных",
+            "LABEL_NOTENDED" : "Вы можете продолжить тест"
+        },
+        "RESULT_MENU" : {
+            "BEGIN" : "🕑 Время начала теста: ",
+            "END" : "🕒 Время окончания теста: ",
+            "RIGHT" : "😍 Количество правильных ответов: ",
+            "WRONG" : "😕 Количество неправильных ответов: ",
+            "UNSOLVED" : "👀 Количество нерешенных вопросов: ",
+            "LEVEL" : "🏆 Уровень: ",
+            "NO_RESULT" : "🤷‍♂️ Вы еще не решили тест"
+        },
+        "ABOUT_MENU" : {
+            "ABOUT" : "Ну что, погнали?\nKingston LC самый первый учебный центр в Сырдарьинской области, фокусирующийся на обучении только Английского языка и подготовке к международным тестам IELTS, TOEFL и CEFR.\nБолее 300 учащихся из Сырдарьинской области выбирают именно наш центр из-за высококвалифицированных преподавателей, которые имеют сертификаты IELTS от 7.0 до 8.0. Но и это еще не всё. Мы являемся первым учебным центром в области, которые состоят в тесном партнерстве с Британским Советом.\nНаши курсы включают в себя такие программы, как General English (Общий Английский) с начального уровня Beginner до продвинутого уровня Advanced, а так же курсы IELTS, CEFR и курс краткого Английского языка для тех, кто хочет уехать зарубеж.\nМы отличаемся от других учебных центров тем, что стараемся проводить занятия в максимально интересной и интерактивной для ученика форме и делаем акцент на практике. Наша стратегия помогает ребятам лучше владеть языком, так-как они говорят, пишут, читают и слушают на Английском языке. Так же мы стараемся проводить разного рода мероприятия для наших учащихся совершенно бесплатно.\nНаша миссия - помощь жителям нашей родной области в достижении их целей и улучшении культуры и образования в регионе, в частности у молодежи. Хочешь узнать еще больше о нас и о наших курсах? Тогда звони по номеру +998972755665 или посетите наш канал в инстаграм @kingston.lc"
+        },
+        "MESSAGE_MENU" : {
+            "LABEL" : "📝 Вы можете оставить заметку, если у вас есть вопросы, предложения или жалобы. Мы ответим вам в ближайшее время.",
+            "LABEL_END" : "Нажмите кнопку ниже, чтобы завершить отправку сообщения 👇",
+            "BTN" : "📫 Завершить"
+        }
+    }
+}
