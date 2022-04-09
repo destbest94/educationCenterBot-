@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "emojione": "^4.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "pg": "^7.6.0",
     "telegraf": "^3.24.1",
     "telegraf-session-postgresql": "^1.0.3"
